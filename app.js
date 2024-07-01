@@ -1,5 +1,5 @@
 let numMax = 10; // rango entre el numero secreto
-let intMax = 3; // intentos maximos
+let intMax = 4; // intentos maximos
 let i = 1; // numero de intentos
 let listaNumsecret = []; // listado de los numeros que ya salieron
 let numSecret; // el numero secreto 
